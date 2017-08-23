@@ -35,7 +35,7 @@ public class MostrarActivity extends AppCompatActivity {
 
             datos.setText(data);
         }else{
-            datos.setText("Nombre : Jair Diaz");
+            datos.setText("");
         }
     }
 
