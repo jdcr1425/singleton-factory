@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f2a649223c88ab7a8d69835e93173db036bb7c7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\84f8c203ce1e9aed6fe9a47c43712f7e9038d534\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5f63fab1d9d2b2d1ffd28345314c073de94e68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\d2bf5905c315dde1d84aea5e0fac771310b4fef9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cae737d3416d6e5594b9a70944fe99fe8706d33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\87a9e04c9a4782ea5c5ee73fb4c7fc52b1b2f3f7\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3bf3fbefa1342d36f2c11afc0946e94e5098cd83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c3a1738e7ea2176e6e33ab2a488fb0ea00f44ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9229a2c2246a2b3b0c776d7ee9c35cbd9c32cb99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\fbc806cfccd9c21891531c11f20278ebf8416317\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2ead29cb33ba104d3e112175e233966fd558588\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\8710808e16ae518b37342098c20b55b61a103e39\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d075df5acb51d60a6b0c7ce7b766809f18a4d11d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\93b30f9b0d9d814ffc3ebb40c77ea8323319540d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baa646f90966da68acff9fd856fb3e4b104806d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\84f8c203ce1e9aed6fe9a47c43712f7e9038d534\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8843970af76996f46c565c4506c70109cb83994b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\0099dcfaf7189e13a1b80646d0db12700b91e757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c370f411e6b74160895c01f9e36274692446879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\48f40f01f1ce730107ecbd8b3015961ff028ee82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8e695a6fb65f7e4cf16231f9028666b03326085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\cdc9071ad77511607092c31515036b8b65b4c6dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1298f193084c33df4ae332e4e655265498b4b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\cdc9071ad77511607092c31515036b8b65b4c6dd\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1ab8efdfd349fa9bb9672507c0cd59f1a9fe255a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\87a9e04c9a4782ea5c5ee73fb4c7fc52b1b2f3f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ea476bb7c1d8d8f7a0830c4b336bf12d06d3051\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\7aca7ddbaf850e7bbcb9a802fccb02fb55aa8469\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8c25b3d8fcd6e6da5dcb1059212a245fafe6973e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="781c3c1cc7ec4c6ada8f9d1e3ea26a3dbd9acc93">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_53a18ad96c7e658e95ebe60432f9dc2cbdddd355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\7aca7ddbaf850e7bbcb9a802fccb02fb55aa8469\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2b7d69e5c2b52bb662447ee360c80360c29c024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\8710808e16ae518b37342098c20b55b61a103e39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Dell\Downloads\Academia-20170819T160000Z-001\Academia\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6dc1ef38c6f2c44dc9dc2390b7c89c4c1c31e5fd\classes.dex" />
+    </item>
+
+</items>
