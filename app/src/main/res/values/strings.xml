@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Academia</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Identificacion">Identificación</string>
+    <string name="Direccion">Dirección</string>
+    <string name="Rol">Rol</string>
+    <string name="Crear">Crear Nuevo</string>
+</resources>
