@@ -75,6 +75,8 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
                 Academiasingleton.getInstance().memory.put("personas",agregados);
             }
 
+            asistenciaSingleton asis= asistenciaSingleton.getInstance();
+            asis.setAsistencia(1);
 
 
 
@@ -83,11 +85,15 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
            //academia.contar(agregados);
            // academia.setAsistencia(agregados.size());
 
-            Mostrar.setText("Usted ha ingresado un "+rol+"\n\n"+
+            //TextView Mostrar2 =(TextView) findViewById(R.id.textView6);
+            Mostrar.setText("Asistencia : "+asis.getAsistencia());
+
+
+            /*Mostrar.setText("Usted ha ingresado un "+rol+"\n\n"+
                     "Datos :\n\n"+ "Nombre : "+p.getNombre() + "\n" + "Identificacion : "+ p.getID() + "\n" + "Direccion : "+ p.getDireccion()
 
                    // +"\n\n\n\n"+ "Asistencia : " + agregados.size() + "     "+academia.getAsistencia()
-            );
+            );*/
 
 
 
